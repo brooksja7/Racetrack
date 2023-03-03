@@ -2,7 +2,7 @@
  * Assignment: Assignment 8 Pt.2 - RaceTrack
  * Description: this program emulates a race between
  *      three race cars by utilizing javaFx
- * Name: Jamarr Brooks
+ * Name: Jamarr B.
  * Course: CMSC403
  ***************************************************/
 
